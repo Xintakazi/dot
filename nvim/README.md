@@ -1,0 +1,1 @@
+# Xintakazi Nvim配置
