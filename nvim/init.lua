@@ -1,5 +1,3 @@
-require('colorscheme')
-require('keymaps')
-require('lsp')
-require('options')
-require('plugins')
+require("config.defaults")
+require("config.keymaps")
+require("config.plugins")
